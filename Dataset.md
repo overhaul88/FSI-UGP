@@ -486,4 +486,4 @@ The code extracts seven physical properties:
 4. Pressure gradient x-component (∇p_x)
 5. Pressure gradient y-component (∇p_y)
 6. Pressure gradient z-component (∇p_z)
-7. Strain magnitude
+7. Strain rate magnitude
